@@ -3,5 +3,6 @@
 .holder{
 	display:grid;
 	grid: 200px/ auto auto;
-	grid-template-columns: repeat(2, auto);
+	grid-template-columns: 100px 100px;
+	grid-template-rows: 100px 100px;
 }
